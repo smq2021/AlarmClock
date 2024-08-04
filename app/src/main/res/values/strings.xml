@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">My Alarm</string>
+    <string name="temperature">Temperature: %1$d°C / %2$d°F</string>
+
+    <!-- <string name="app_name">Weather App</string> -->
+
+    <!-- <string name="app_name">Weather App</string> -->
 </resources>
